@@ -51,8 +51,8 @@
 
 ## 📫 Connect with Me
 <p align="left">
-  <a href="[https://www.linkedin.com/in/shreyansh-singh](https://www.linkedin.com/in/shreyansh-singh-729b0b198/)" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shreyansh%20Singh-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="[https://github.com/shreyansh-singh](https://github.com/Shreyansh9016)" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-shreyansh--singh-black?style=for-the-badge&logo=github"></a>
+  <a href="[[https://www.linkedin.com/in/shreyansh-singh](https://www.linkedin.com/in/shreyansh-singh-729b0b198/)](https://www.linkedin.com/in/shreyansh-singh-729b0b198/)" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shreyansh%20Singh-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="[[https://github.com/shreyansh-singh](https://github.com/Shreyansh9016)](https://github.com/Shreyansh9016)" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-shreyansh--singh-black?style=for-the-badge&logo=github"></a>
   <a href="mailto:meeshreyanshsingh@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-meeshreyanshsingh@gmail.com-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
