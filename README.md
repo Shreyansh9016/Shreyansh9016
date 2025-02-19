@@ -2,7 +2,7 @@
 - <h1 align="center">Hi there, I'm Shreyansh Singh! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2CB&center=true&vCenter=true&width=600&lines=AR-VR++%7C+Android+Developer;Hackathon+Enthusiast+%7C+Tech+Explorer;Kotlin+%7C+Firebase+%7C+APIs+%7C+Jetpack+Compose;Passionate+About+Innovation+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2CB&center=true&vCenter=true&width=600&lines=Android +Developer+%7C+AR-VR;Hackathon+Enthusiast+%7C+Tech+Explorer;Kotlin+%7C+Firebase+%7C+APIs+%7C+Jetpack+Compose;Passionate+About+Innovation+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
