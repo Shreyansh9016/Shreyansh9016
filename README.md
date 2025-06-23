@@ -26,6 +26,7 @@
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 ![Vuforia](https://img.shields.io/badge/Vuforia-009F6B?style=for-the-badge&logo=vuforia&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
 ### **Tools & Services** 🔧
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
@@ -33,6 +34,12 @@
 ![Botpress](https://img.shields.io/badge/Botpress-0A0A0A?style=for-the-badge&logo=botpress&logoColor=white)
 ![Deezer API](https://img.shields.io/badge/Deezer-FF0000?style=for-the-badge&logo=deezer&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BDA?style=for-the-badge&logo=kalilinux&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+![DVWA](https://img.shields.io/badge/DVWA-4E4E4E?style=for-the-badge&logo=gnu-linux&logoColor=white)
+
 
 ---
 
