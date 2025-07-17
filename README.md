@@ -1,16 +1,17 @@
 <h1 align="center">Hi there, I'm Shreyansh Singh! 👋</h1>
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2CB&center=true&vCenter=true&width=600&lines=Android+Developer+%7C+AR-VR;Hackathon+Enthusiast+%7C+Tech+Explorer;Kotlin+%7C+Firebase+%7C+APIs+%7C+Jetpack+Compose;Passionate+About+Innovation+🚀" alt="Typing SVG" />
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2CB&center=true&vCenter=true&width=600&lines=Spring+Boot+%7C+Android-Devlopment+%7C+AR-VR;Hackathon+Enthusiast+%7C+Tech+Explorer;Kotlin+%7C+Firebase+%7C+APIs+%7C+Jetpack+Compose;Passionate+About+Innovation+🚀" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🔥 About Me
-- 🚀 I’m currently working on **Jetpack Compose**.
-- 🎵 Exploring **Android Development** and **Augmented Reality**.
-- 💡 Passionate about **Jetpack Compose**, **Firebase**, and **APIs**.
-- 🎨 Created multiple **AR Projects** using **Unity**.
+- 🚀 I’m currently working on **SpringBoot**.
+- 🎵 Exploring **SpringBoot** and **Android Devlopment**.
+- 💡 Passionate about **Backend**, **Firebase**, and **APIs**.
+- 🎨 Created multiple **SpringBoot Projects** and **Andoird apps**.
 - 🏆 Finalist at **Hack the Hills** Hackathon at **IIIT Una**.
+- 🏆 Under Top 20 at **HackSpire** Hackathon at **Thapar University**.
 - 📫 Reach me at [meeshreyanshsingh@gmail.com](mailto:meeshreyanshsingh@gmail.com)
 
 ---
