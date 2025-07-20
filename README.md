@@ -41,15 +41,6 @@
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 ![DVWA](https://img.shields.io/badge/DVWA-4E4E4E?style=for-the-badge&logo=gnu-linux&logoColor=white)
 
-
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shreyansh-singh&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyansh-singh&theme=radical" />
-</p>
-
 ---
 
 ## 🌟 Connect with Me
