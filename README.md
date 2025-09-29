@@ -1,17 +1,16 @@
 <h1 align="center">Hi there, I'm Shreyansh Singh! 👋</h1>
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2CB&center=true&vCenter=true&width=600&lines=Spring+Boot+%7C+Android-Devlopment+%7C+AR-VR;Hackathon+Enthusiast+%7C+Tech+Explorer;Kotlin+%7C+Firebase+%7C+APIs+%7C+Jetpack+Compose;Passionate+About+Innovation+🚀" alt="Typing SVG" />
-</p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2CB&center=true&vCenter=true&width=600&lines=Data+Analysis+%7C+Spring+Boot+%7C+Android;Hackathon+Enthusiast+%7C+Tech+Explorer;Java+%7C+SQL+%7C+PowerBI+%7C+Tableau;Passionate+About+Innovation+🚀" alt="Typing SVG" /> </p>
 
 ---
 
 ## 🔥 About Me
-- 🚀 I’m currently working on **SpringBoot**.
-- 🎵 Exploring **SpringBoot** and **Android Devlopment**.
-- 💡 Passionate about **Backend**, **Firebase**, and **APIs**.
-- 🎨 Created multiple **SpringBoot Projects** and **Andoird apps**.
-- 🏆 Finalist at **Hack the Hills** Hackathon at **IIIT Una**.
-- 🏆 Under Top 20 at **HackSpire** Hackathon at **Thapar University**.
+- 📊 I’m currently focused on **Data Analysis** and **Visualization**.  
+- 💡 Passionate about extracting insights from data using **Python**, **Power BI**, and **SQL**.  
+- 🎨 Created multiple **data analysis projects** and **interactive dashboards**.  
+- 🏆 Finalist at **Hack the Hills** Hackathon at **IIIT Una**.  
+- 🏆 Under Top 20 at **HackSpire** Hackathon at **Thapar University**.  
+- 🌱 Previously explored **Spring Boot, Android Development, Jetpack Compose, AR/VR**, and other tech stacks.  
 - 📫 Reach me at [meeshreyanshsingh@gmail.com](mailto:meeshreyanshsingh@gmail.com)
 
 ---
@@ -24,7 +23,10 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-EB5424?style=for-the-badge&logo=xml&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C80F?style=for-the-badge&logo=microsoft-power-bi&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 ![Vuforia](https://img.shields.io/badge/Vuforia-009F6B?style=for-the-badge&logo=vuforia&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -40,6 +42,10 @@
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BDA?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 ![DVWA](https://img.shields.io/badge/DVWA-4E4E4E?style=for-the-badge&logo=gnu-linux&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+
 
 ---
 
