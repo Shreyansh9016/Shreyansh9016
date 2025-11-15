@@ -9,7 +9,8 @@
 - 💡 Passionate about extracting insights from data using **Python**, **Power BI**, and **SQL**.  
 - 🎨 Created multiple **data analysis projects** and **interactive dashboards**.  
 - 🏆 Finalist at **Hack the Hills** Hackathon at **IIIT Una**.  
-- 🏆 Under Top 20 at **HackSpire** Hackathon at **Thapar University**.  
+- 🏆 Under Top 20 at **HackSpire** Hackathon at **Thapar University**.
+- 🏆 Top 10 at **NexHack** Hackathon at **Geeta University**. 
 - 🌱 Previously explored **Spring Boot, Android Development, Jetpack Compose, AR/VR**, and other tech stacks.  
 - 📫 Reach me at [meeshreyanshsingh@gmail.com](mailto:meeshreyanshsingh@gmail.com)
 
