@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=Shreyansh9016)
 <h1 align="center">Hi there, I'm Shreyansh Singh! 👋</h1>
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2CB&center=true&vCenter=true&width=600&lines=Data+Analysis+%7C+Spring+Boot+%7C+Android;Hackathon+Enthusiast+%7C+Tech+Explorer;Java+%7C+SQL+%7C+PowerBI+%7C+Tableau;Passionate+About+Innovation+🚀" alt="Typing SVG" /> </p>
