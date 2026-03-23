@@ -98,6 +98,7 @@
 
 <p align="center">✨ Building scalable systems + intelligent AI applications ✨</p>
 </p>
+<h2>🐍 Contribution Snake</h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shreyansh9016/Shreyansh9016/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shreyansh9016/Shreyansh9016/output/github-snake.svg" />
